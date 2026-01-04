@@ -1,7 +1,7 @@
 streamlit
-tensorflow
-numpy
+tensorflow-cpu==2.10.0
 opencv-python-headless
 faiss-cpu
+numpy
 scikit-learn
-matplotlib
+Pillow
