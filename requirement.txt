@@ -1,7 +1,7 @@
-streamlit
-tensorflow-cpu==2.15.1
-opencv-python-headless==4.8.1.78
-faiss-cpu
+streamlit==1.31.0
+tensorflow==2.15.1
+opencv-python-headless
 numpy
+pillow
 scikit-learn
-Pillow
+faiss-cpu
